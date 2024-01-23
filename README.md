@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Laptop Price Predictor</h1>
+    <h1>Book recommendation system</h1>
 </div>
 
 ## A Machine Learning model deployed with a user interface to predict the price of laptops
