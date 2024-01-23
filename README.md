@@ -2,11 +2,10 @@
     <h1>Book recommendation system</h1>
 </div>
 
-## A Machine Learning model deployed with a user interface to predict the price of laptops
+## Title: Coming soon ...
 
 ### Introduction
-A variety of laptop datasets that have eleven features; from company name to operating system. The aim is to predict the price in euro `target`.
-
+Coming soon ...
 
 ### Repository Structure
 * **README.md**: The top-level README for reviewers of this project
