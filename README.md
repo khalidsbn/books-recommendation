@@ -2,10 +2,10 @@
     <h1>Book recommendation system</h1>
 </div>
 
-## Title: Coming soon ...
+## Build book recommendation system based on Collaborative Filtering
 
 ### Introduction
-Coming soon ...
+The interface of the project has the top 20 books in the dataset, while the recommendation page suggests four books after the user enters the title of a book.
 
 ### Repository Structure
 * **README.md**: The top-level README for reviewers of this project
@@ -31,7 +31,7 @@ Collaborative Filtering Based Recommender System
 ## Getting the app running localy
 1. Colone this repo
 ```
-git clone https://github.com/khalidsbn/Laptop-Price-Predictor.git
+git clone https://github.com/khalidsbn/books-recommendation.git
 ```
 2. Create and activate a virtual environment
 ```
@@ -42,11 +42,7 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-4. Change into the `app` directory
-```
-cd app
-```
-5. Run app.py
+4. Run app.py
 
 
 Running the above command should result in you seeing the following:
@@ -55,13 +51,9 @@ Running the above command should result in you seeing the following:
 
 This page has the most 20 popular books.
 
-6. Try to enter the name of a book
+5. Try to enter the name of a book
 
 <img src="static/img/recommendation_page.png" width="800"/>
 
-7. Click show to get the recommendations
+6. Click show to get the recommendations
 <img src="static/img/recommendation.png" width="800"/>
-
-
-### Known issues
-Still updating ...
